@@ -1,0 +1,19 @@
+# Quartz build (cloned at CI time, never committed)
+.quartz-build/
+public/
+.quartz-cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Obsidian workspace (keep vault settings out of git by default)
+content/.obsidian/workspace*
+content/.obsidian/cache
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

@@ -1,0 +1,71 @@
+name: Deploy Microglia Wiki (Quartz) to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; cancel in-progress runs for the same ref.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      QUARTZ_VERSION: "v4"   # branch/tag of jackyzha0/quartz to build with
+    steps:
+      - name: Checkout wiki (this repo)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so Quartz can use git dates
+
+      - name: Checkout Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: ${{ env.QUARTZ_VERSION }}
+          path: .quartz-build
+
+      - name: Move wiki content into Quartz
+        run: |
+          rm -rf .quartz-build/content
+          cp -r content .quartz-build/content
+          # Apply our Quartz configuration (and layout, if present)
+          cp quartz.config.ts .quartz-build/quartz.config.ts
+          if [ -f quartz.layout.ts ]; then cp quartz.layout.ts .quartz-build/quartz.layout.ts; fi
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        working-directory: .quartz-build
+        run: npm ci
+
+      - name: Build site
+        working-directory: .quartz-build
+        run: npx quartz build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .quartz-build/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
