@@ -30,6 +30,12 @@ scRNA-seq profiles transcriptomes of dissociated single cells; snRNA-seq profile
 
 ## Papers
 - [[chhatbar-2026-microglia-taxonomy]] — scRNA-seq of >1M CNS cells across >30 conditions.
+- [[prater-2023-human-microglia-ad]] — snRNA-seq of human AD microglia.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — ~1.5M-nucleus snRNA-seq eQTL atlas.
+- [[sziraki-2023-easysci-aging-ad]] — EasySci combinatorial-indexing single-cell.
+- [[clarence-2025-postnatal-brain-multiome]] — single-nucleus multiome (RNA + ATAC).
+- [[jang-2026-singlebrain-sn-eqtl]] — snRNA-seq eQTL meta-analysis (5.8M nuclei).
+- [[young-2021-microglia-transcriptional-map]] — single-cell + bulk human microglia.
 
 ## Open questions
 - How to harmonize states across platforms and labs?

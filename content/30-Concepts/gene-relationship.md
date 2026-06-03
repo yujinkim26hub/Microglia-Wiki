@@ -28,7 +28,14 @@ Many [[Alzheimer's disease]] and other [[neurodegenerative disease]] risk genes 
 - Topics: [[multi-omics]], [[snRNA-seq scRNA-seq]]
 
 ## Papers
-- _none yet_
+- [[de-paiva-lopes-2022-microglia-transcriptome-atlas]] — microglia eQTLs/sQTLs across regions.
+- [[young-2021-microglia-transcriptional-map]] — microglia eQTLs; BIN1 fine-mapping.
+- [[kosoy-2022-microglia-regulome]] — regulome refines 21 AD risk loci.
+- [[yang-2023-ad-variants-microglia]] — functional AD variants → target genes in microglia.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — cell-subtype eQTLs in AD brain.
+- [[jang-2026-singlebrain-sn-eqtl]] — single-nucleus eQTL meta-analysis across brain cell types.
+- [[schwartzentruber-2021-ad-gwas-finemapping]] — AD GWAS fine-mapping + gene prioritization.
+- [[jagadeesh-2022-sc-linker]] — sc-linker maps GWAS to disease-critical cell types.
 
 ## Open questions
 - Which risk-gene associations reflect causal microglial mechanisms?

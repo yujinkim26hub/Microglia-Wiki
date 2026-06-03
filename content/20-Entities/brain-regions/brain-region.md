@@ -30,6 +30,9 @@ This is the index page for brain regions. [[Microglia]] are regionally heterogen
 
 ## Papers
 - [[kosoy-2025-ad-microglia-landscape]] — prefrontal cortex (Brodmann Area 10) microglia in AD.
+- [[de-paiva-lopes-2022-microglia-transcriptome-atlas]] — microglia across multiple brain regions.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — neocortex cell-subtype eQTLs.
+- [[clarence-2025-postnatal-brain-multiome]] — four brain regions across postnatal development.
 
 ## Open questions
 - Which regional microglial features drive selective vulnerability?

@@ -34,6 +34,10 @@ Transcriptomics is the primary lens through which microglial heterogeneity, [[ce
 - [[kosoy-2025-ad-microglia-landscape]] — bulk transcriptomics of human AD microglia.
 - [[chhatbar-2026-microglia-taxonomy]] — single-cell transcriptomic taxonomy across pathologies.
 - [[shimizu-2025-microglia-evolution]] — comparative transcriptomic signatures across species.
+- [[de-paiva-lopes-2022-microglia-transcriptome-atlas]] — brain-wide human microglia transcriptome.
+- [[young-2021-microglia-transcriptional-map]] — human microglia transcriptional heterogeneity + eQTLs.
+- [[kosoy-2022-microglia-regulome]] — microglia transcriptome + chromatin regulome.
+- [[prater-2023-human-microglia-ad]] — single-nucleus microglial transcriptomes in AD.
 
 ## Open questions
 - _To be refined as papers are ingested._

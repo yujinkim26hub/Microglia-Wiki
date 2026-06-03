@@ -31,6 +31,11 @@ Disease often shifts the *distribution* of microglial states rather than creatin
 - [[chhatbar-2026-microglia-taxonomy]] — hierarchical taxonomy of microglial states (27 superclusters / 192 clusters).
 - [[shimizu-2025-microglia-evolution]] — conserved vs. divergent states across species.
 - [[kosoy-2025-ad-microglia-landscape]] — bulk AD subtypes/states (resolvable to single-cell states).
+- [[prater-2023-human-microglia-ad]] — 10 human microglial states, AD-enriched subpopulations.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — 64 cell subtypes with genetic effects.
+- [[sziraki-2023-easysci-aging-ad]] — >300 subtypes; aging/AD population dynamics.
+- [[clarence-2025-postnatal-brain-multiome]] — developmental cell-state regulators.
+- [[jang-2026-singlebrain-sn-eqtl]] — cell-type/subtype-resolved eQTLs.
 
 ## Open questions
 - How many distinct microglial states are robustly reproducible across studies?

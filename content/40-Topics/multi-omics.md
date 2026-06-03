@@ -29,7 +29,10 @@ Multi-omics combines modalities — transcriptome ([[snRNA-seq scRNA-seq]]), chr
 - Topics: [[snRNA-seq scRNA-seq]], [[spatial transcriptomics]], [[brain single-cell atlas]]
 
 ## Papers
-- _none yet_
+- [[kosoy-2022-microglia-regulome]] — RNA-seq + ATAC-seq microglia regulome.
+- [[yang-2023-ad-variants-microglia]] — 3D epigenome + genetics + CRISPRi.
+- [[sziraki-2023-easysci-aging-ad]] — transcriptome + chromatin accessibility (EasySci).
+- [[clarence-2025-postnatal-brain-multiome]] — joint snRNA-seq + snATAC-seq multiome.
 
 ## Open questions
 - Which modality combinations add the most mechanistic value for microglia?

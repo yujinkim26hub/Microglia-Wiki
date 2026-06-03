@@ -29,6 +29,9 @@ Microglial [[cell state|states]] and [[microglia activation|activation]] program
 
 ## Papers
 - [[kosoy-2025-ad-microglia-landscape]] — AD-altered gene–gene coordination and co-expression networks (MEGENA).
+- [[kosoy-2022-microglia-regulome]] — enhancer–promoter interactions + TF regulatory networks (SPI1).
+- [[yang-2023-ad-variants-microglia]] — 3D epigenome cCRE–gene links via CRISPRi.
+- [[clarence-2025-postnatal-brain-multiome]] — enhancer-based gene regulatory networks in development.
 
 ## Open questions
 - Which regulators are master controllers of disease-associated microglial states?

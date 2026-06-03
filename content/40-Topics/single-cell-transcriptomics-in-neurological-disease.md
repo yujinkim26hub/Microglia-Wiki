@@ -35,6 +35,11 @@ Single-cell/nucleus RNA-seq has become central to neurological-disease research,
 - [[chhatbar-2026-microglia-taxonomy]] — single-cell microglial taxonomy across mouse + human pathologies.
 - [[kosoy-2025-ad-microglia-landscape]] — bulk-microglia complement in human AD (states inferable, not directly single-cell).
 - [[shimizu-2025-microglia-evolution]] — cross-species single-cell context for interpreting disease states.
+- [[prater-2023-human-microglia-ad]] — snRNA-seq microglial states in AD.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — cell-subtype genetic effects in AD brain.
+- [[sziraki-2023-easysci-aging-ad]] — aging/AD cell dynamics across species.
+- [[jang-2026-singlebrain-sn-eqtl]] — single-nucleus eQTLs across brain disorders.
+- [[jagadeesh-2022-sc-linker]] — single-cell + genetics for disease-critical cell types.
 
 ## Open questions
 - _To be refined as papers are ingested._

@@ -33,6 +33,11 @@ Microglial dysfunction is implicated across [[neurodegenerative disease]], [[neu
 - [[kosoy-2025-ad-microglia-landscape]] — human AD microglial transcriptome (purified microglia).
 - [[chhatbar-2026-microglia-taxonomy]] — pan-pathology microglial state taxonomy (mouse + human).
 - [[shimizu-2025-microglia-evolution]] — microglia conserved origins vs. divergent function across evolution.
+- [[de-paiva-lopes-2022-microglia-transcriptome-atlas]] — brain-wide human microglia transcriptome atlas.
+- [[young-2021-microglia-transcriptional-map]] — human microglia transcriptional/eQTL map.
+- [[kosoy-2022-microglia-regulome]] — human microglia regulome refines AD loci.
+- [[yang-2023-ad-variants-microglia]] — functional AD variants in microglia.
+- [[prater-2023-human-microglia-ad]] — human microglial states in AD.
 
 ## Open questions
 - How do homeostatic vs. disease-associated states map across species and regions?

@@ -31,6 +31,11 @@ Brain single-cell/nucleus atlases (e.g., human brain cell atlases, Allen Brain C
 
 ## Papers
 - [[chhatbar-2026-microglia-taxonomy]] — pan-pathology myeloid/microglial state atlas (mouse + human).
+- [[de-paiva-lopes-2022-microglia-transcriptome-atlas]] — brain-wide human microglia atlas.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — aged neocortex cell-subtype atlas.
+- [[sziraki-2023-easysci-aging-ad]] — aging brain atlas (mouse + human).
+- [[clarence-2025-postnatal-brain-multiome]] — postnatal developmental atlas.
+- [[jang-2026-singlebrain-sn-eqtl]] — multi-cohort brain eQTL atlas.
 
 ## Open questions
 - How to maintain stable, versioned state nomenclature across atlases?

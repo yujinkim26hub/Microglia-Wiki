@@ -31,6 +31,7 @@ Chronic neuroinflammation is a shared feature of [[Alzheimer's disease]] and oth
 ## Papers
 - [[kosoy-2025-ad-microglia-landscape]] — immune/interferon program changes in AD human microglia.
 - [[shimizu-2025-microglia-evolution]] — divergent inflammatory responses across vertebrate species.
+- [[jagadeesh-2022-sc-linker]] — complement-cascade process implicated in multiple sclerosis.
 
 ## Open questions
 - When does protective inflammation tip into chronic pathology?

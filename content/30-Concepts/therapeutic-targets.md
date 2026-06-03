@@ -28,7 +28,8 @@ Microglia are increasingly viewed as druggable mediators of [[Alzheimer's diseas
 - Topics: [[multi-omics]]
 
 ## Papers
-- _none yet_
+- [[kosoy-2022-microglia-regulome]] — SPI1 / refined AD risk genes as candidate targets.
+- [[yang-2023-ad-variants-microglia]] — TSPAN14/ADAM10/sTREM2 mechanism nominates targets.
 
 ## Open questions
 - Should therapies suppress or redirect microglial states?

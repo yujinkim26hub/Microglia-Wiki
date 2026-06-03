@@ -29,7 +29,9 @@ Stage shapes vulnerability windows: developmental microglial roles underlie [[ne
 - Topics: [[brain single-cell atlas]], [[snRNA-seq scRNA-seq]]
 
 ## Papers
-- _none yet_
+- [[clarence-2025-postnatal-brain-multiome]] — regulators across 5 postnatal stages.
+- [[sziraki-2023-easysci-aging-ad]] — aging-dependent cell dynamics (mouse + human).
+- [[de-paiva-lopes-2022-microglia-transcriptome-atlas]] — age as a source of microglial heterogeneity.
 
 ## Open questions
 - Which developmental states persist or recur in disease?

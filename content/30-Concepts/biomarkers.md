@@ -28,7 +28,7 @@ Microglial and [[neuroinflammation|neuroinflammatory]] biomarkers (e.g., sTREM2,
 - Topics: [[multi-omics]], [[snRNA-seq scRNA-seq]]
 
 ## Papers
-- _none yet_
+- [[yang-2023-ad-variants-microglia]] — variant effects on soluble TREM2 (sTREM2) shedding.
 
 ## Open questions
 - Which microglial states yield reliable, accessible fluid biomarkers?

@@ -33,6 +33,7 @@ DAM are a central concept for [[Alzheimer's disease]] and broader [[neurodegener
 - [[chhatbar-2026-microglia-taxonomy]] — taxonomy placing DAM-type states across diseases/species.
 - [[kosoy-2025-ad-microglia-landscape]] — APOE-anchored modules in human AD microglia.
 - [[shimizu-2025-microglia-evolution]] — conserved vs. species-specific disease-associated programs.
+- [[prater-2023-human-microglia-ad]] — disease-enriched human microglial states in AD.
 
 ## Open questions
 - Are DAM protective, harmful, or stage-dependent?

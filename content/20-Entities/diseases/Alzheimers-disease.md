@@ -29,6 +29,12 @@ Alzheimer's disease (AD) is a progressive [[neurodegenerative disease]] characte
 ## Papers
 - [[kosoy-2025-ad-microglia-landscape]] — transcriptional landscape of human AD microglia (189 brains).
 - [[shimizu-2025-microglia-evolution]] — biphasic microglial role in AD (cross-species perspective).
+- [[prater-2023-human-microglia-ad]] — human microglial states altered in AD.
+- [[kosoy-2022-microglia-regulome]] — microglia regulome refines AD risk loci.
+- [[yang-2023-ad-variants-microglia]] — functional AD variants in microglia.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — cell-subtype genetic effects in AD brain.
+- [[sziraki-2023-easysci-aging-ad]] — aging/AD cell dynamics.
+- [[schwartzentruber-2021-ad-gwas-finemapping]] — AD GWAS fine-mapping + gene prioritization.
 
 ## Open questions
 - Are microglial responses in AD net-protective, net-harmful, or stage-dependent?

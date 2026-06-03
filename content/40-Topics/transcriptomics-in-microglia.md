@@ -36,6 +36,11 @@ Transcriptomics is the dominant lens on microglial biology: bulk RNA-seq of puri
 - [[kosoy-2025-ad-microglia-landscape]] — bulk transcriptomics of human AD microglia.
 - [[chhatbar-2026-microglia-taxonomy]] — single-cell transcriptomic state taxonomy.
 - [[shimizu-2025-microglia-evolution]] — comparative microglial transcriptomes across species.
+- [[de-paiva-lopes-2022-microglia-transcriptome-atlas]] — brain-wide human microglia transcriptome.
+- [[young-2021-microglia-transcriptional-map]] — human microglia transcriptional/eQTL map.
+- [[kosoy-2022-microglia-regulome]] — microglia transcriptome + regulome.
+- [[yang-2023-ad-variants-microglia]] — microglia regulatory genomics in AD.
+- [[prater-2023-human-microglia-ad]] — single-nucleus microglial transcriptomes in AD.
 
 ## Open questions
 - _To be refined as papers are ingested._

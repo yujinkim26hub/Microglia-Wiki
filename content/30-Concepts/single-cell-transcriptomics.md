@@ -33,6 +33,12 @@ It is the workhorse for resolving [[microglia|microglial]] heterogeneity and for
 ## Papers
 - [[chhatbar-2026-microglia-taxonomy]] — >1M-cell single-cell atlas and state taxonomy.
 - [[shimizu-2025-microglia-evolution]] — cross-species single-cell comparisons of microglia.
+- [[prater-2023-human-microglia-ad]] — snRNA-seq of human AD microglia.
+- [[fujita-2024-cell-subtype-genetic-variation-ad]] — ~1.5M-nucleus cell-subtype atlas.
+- [[sziraki-2023-easysci-aging-ad]] — EasySci high-throughput single-cell profiling.
+- [[clarence-2025-postnatal-brain-multiome]] — single-nucleus multiome of postnatal brain.
+- [[jang-2026-singlebrain-sn-eqtl]] — meta-analysis of single-nucleus eQTLs.
+- [[young-2021-microglia-transcriptional-map]] — single-cell + bulk human microglia.
 
 ## Open questions
 - _To be refined as papers are ingested._

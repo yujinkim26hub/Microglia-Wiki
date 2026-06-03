@@ -28,6 +28,7 @@ type: entity
 
 ## Papers
 - [[shimizu-2025-microglia-evolution]] — TREM2-mediated early neuroprotection in the biphasic AD microglial role.
+- [[yang-2023-ad-variants-microglia]] — AD variant (rs7922621/TSPAN14) alters soluble TREM2 (sTREM2) shedding.
 
 ## Open questions
 - How do TREM2 ligands and signaling thresholds determine protective vs. harmful states?
