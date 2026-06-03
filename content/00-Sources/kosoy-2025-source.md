@@ -27,4 +27,4 @@ type: source
 Microglia are resident immune cells of the brain implicated in Alzheimer's disease (AD). The authors present the transcriptional landscape of primary microglia from 189 human postmortem brains (58 healthy aging; 131 with disease phenotypes, including 63 across the full clinical/pathological AD spectrum), identifying transcriptional changes associated with multiple AD phenotypes, transcript/isoform-level effects, altered gene–gene coordination, dysregulated co-expression modules, and disease subtypes — nominating candidates for therapeutic intervention. *(Paraphrased from the published abstract / open-access preprint.)*
 
 ## Summary
-→ [[kosoy-2025-ad-microglia-landscape|Structured summary]]
+→ [[10-Summaries/kosoy-2025-ad-microglia-landscape|Structured summary]]

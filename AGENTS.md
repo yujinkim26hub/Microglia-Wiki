@@ -37,6 +37,7 @@ The wiki follows Karpathy's [LLM Wiki](https://gist.github.com/karpathy/442a6bf5
 
 - **Filenames:** lowercase, hyphenated, ASCII. Strip apostrophes. e.g. `Alzheimer's disease` → `Alzheimers-disease.md`.
 - **Paper summary filenames:** `firstauthor-year-shortslug.md` (e.g. `keren-shaul-2017-dam.md`). Lowercase the author surname.
+- **Source-stub filenames:** `firstauthor-year-source.md` (e.g. `keren-shaul-2017-source.md`). **The source stub and its summary MUST have different basenames** — never give them the same filename in different folders. Quartz resolves wikilinks by *shortest basename*, so two files sharing a basename make every `[[basename]]` link ambiguous (it silently points to only one of them, orphaning the other). The bare `[[firstauthor-year-shortslug]]` link must uniquely identify the **summary**.
 - **Wikilinks** use the human-readable display form: `[[microglia]]`, `[[Alzheimer's disease]]`, `[[neuroinflammation]]`, `[[disease-associated microglia]]`. If display text differs from the filename, use an alias in the target page's frontmatter `aliases:` list so Obsidian and Quartz resolve it. Always add a matching alias when you introduce a new display form.
 - **Tags:** lowercase, hyphenated, in YAML frontmatter `tags:`. Reuse the controlled vocabulary in §6 before inventing new tags.
 - **Every page** starts with YAML frontmatter: `title`, `aliases`, `tags`, `created`, `updated`, `type`.
@@ -81,8 +82,8 @@ Steps:
 1. **Search** for the paper (web search; try title + first author + year, then DOI/PMID lookup).
 2. **Verify identity.** A paper is *confidently identified* only when the retrieved record matches the user's fields — first author surname, title (allowing minor wording differences), year (±1 for online-vs-print), and journal are consistent, and you have a real DOI or PMID. When in doubt, treat as **not** identified.
 3. **If identified:**
-   a. Create `00-Sources/firstauthor-year-slug.md` (bibliographic stub with DOI/PMID/link).
-   b. Create `10-Summaries/firstauthor-year-slug.md` from the template — fill **all 15 sections** from the actual paper (abstract + available full text/figures). Never fabricate results; cite what you read.
+   a. Create `00-Sources/firstauthor-year-source.md` (bibliographic stub with DOI/PMID/link). **Keep stubs stub-only — never put the 15-section summary in `00-Sources/`.**
+   b. Create `10-Summaries/firstauthor-year-shortslug.md` from the template — fill **all 15 sections** from the actual paper (abstract + available full text/figures). Never fabricate results; cite what you read. The summary's basename must differ from the source's (see §3) so `[[firstauthor-year-shortslug]]` uniquely points to the summary.
    c. Update **`catalog.md`** — add a row (author, year, title, journal, summary link, tags).
    d. Append to **`log.md`** — dated one-line entry of what was added/changed.
    e. Update related **concept** pages (`30-Concepts/`), **topic/Section** page (`40-Topics/`), and **entity** pages (`20-Entities/`) — add the new summary under their "Papers" / "Related papers" list and create missing concept/entity/topic pages as needed (from templates, fully linked).

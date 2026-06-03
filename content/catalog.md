@@ -17,26 +17,26 @@ The agent keeps this table complete and sorted by year (newest first), then firs
 
 ## Papers
 
-| Year | First author | Title | Journal | Summary | Section / Topic | Tags |
-|------|--------------|-------|---------|---------|-----------------|------|
-| 2026 | Chhatbar | A transcriptomic microglia taxonomy across mouse and human pathologies | Nature Immunology | [[chhatbar-2026-microglia-taxonomy]] | [[disease-associated microglia]] | #disease-associated-microglia #brain-single-cell-atlas #spatial-transcriptomics #transcriptomics |
-| 2025 | Kosoy | Alzheimer's disease transcriptional landscape in ex vivo human microglia | Nature Neuroscience | [[kosoy-2025-ad-microglia-landscape]] | [[Alzheimer's disease]] | #alzheimers-disease #transcriptomics #neuroinflammation #gene-expression-signature |
-| 2025 | Shimizu | Microglia across evolution: from conserved origins to functional divergence | Cellular & Molecular Immunology | [[shimizu-2025-microglia-evolution]] | [[microglia]] | #review #microglia #development-stage #cell-state |
+| Year | First author | Title | Journal | Summary | Source | Section / Topic | Tags |
+|------|--------------|-------|---------|---------|--------|-----------------|------|
+| 2026 | Chhatbar | A transcriptomic microglia taxonomy across mouse and human pathologies | Nature Immunology | [[10-Summaries/chhatbar-2026-microglia-taxonomy\|View summary]] | [[chhatbar-2026-source\|stub]] | [[disease-associated microglia]] | #disease-associated-microglia #brain-single-cell-atlas #spatial-transcriptomics #transcriptomics |
+| 2025 | Kosoy | Alzheimer's disease transcriptional landscape in ex vivo human microglia | Nature Neuroscience | [[10-Summaries/kosoy-2025-ad-microglia-landscape\|View summary]] | [[kosoy-2025-source\|stub]] | [[Alzheimer's disease]] | #alzheimers-disease #transcriptomics #neuroinflammation #gene-expression-signature |
+| 2025 | Shimizu | Microglia across evolution: from conserved origins to functional divergence | Cellular & Molecular Immunology | [[10-Summaries/shimizu-2025-microglia-evolution\|View summary]] | [[shimizu-2025-source\|stub]] | [[microglia]] | #review #microglia #development-stage #cell-state |
 
 ## By topic
 
-- **[[transcriptomics]]** — [[kosoy-2025-ad-microglia-landscape]] · [[chhatbar-2026-microglia-taxonomy]] · [[shimizu-2025-microglia-evolution]]
-- **[[disease-associated microglia|Disease-associated microglia (DAM)]]** — [[chhatbar-2026-microglia-taxonomy]] · [[kosoy-2025-ad-microglia-landscape]] · [[shimizu-2025-microglia-evolution]]
-- **[[microglia activation]]** — [[chhatbar-2026-microglia-taxonomy]] · [[shimizu-2025-microglia-evolution]]
-- **[[neuroinflammation]]** — [[kosoy-2025-ad-microglia-landscape]] · [[shimizu-2025-microglia-evolution]]
-- **[[snRNA-seq scRNA-seq|Single-cell / single-nucleus RNA-seq]]** — [[chhatbar-2026-microglia-taxonomy]]
-- **[[spatial transcriptomics]]** — [[chhatbar-2026-microglia-taxonomy]]
-- **[[brain single-cell atlas]]** — [[chhatbar-2026-microglia-taxonomy]]
+- **[[transcriptomics]]** — [[kosoy-2025-ad-microglia-landscape|Kosoy 2025]] · [[chhatbar-2026-microglia-taxonomy|Chhatbar 2026]] · [[shimizu-2025-microglia-evolution|Shimizu 2025]]
+- **[[disease-associated microglia|Disease-associated microglia (DAM)]]** — [[chhatbar-2026-microglia-taxonomy|Chhatbar 2026]] · [[kosoy-2025-ad-microglia-landscape|Kosoy 2025]] · [[shimizu-2025-microglia-evolution|Shimizu 2025]]
+- **[[microglia activation]]** — [[chhatbar-2026-microglia-taxonomy|Chhatbar 2026]] · [[shimizu-2025-microglia-evolution|Shimizu 2025]]
+- **[[neuroinflammation]]** — [[kosoy-2025-ad-microglia-landscape|Kosoy 2025]] · [[shimizu-2025-microglia-evolution|Shimizu 2025]]
+- **[[snRNA-seq scRNA-seq|Single-cell / single-nucleus RNA-seq]]** — [[chhatbar-2026-microglia-taxonomy|Chhatbar 2026]]
+- **[[spatial transcriptomics]]** — [[chhatbar-2026-microglia-taxonomy|Chhatbar 2026]]
+- **[[brain single-cell atlas]]** — [[chhatbar-2026-microglia-taxonomy|Chhatbar 2026]]
 - **[[multi-omics]]** — _none yet_
 
 ## By disease
 
-- **[[Alzheimer's disease]]** — [[kosoy-2025-ad-microglia-landscape]] · [[shimizu-2025-microglia-evolution]]
-- **[[neurodegenerative disease]]** — [[chhatbar-2026-microglia-taxonomy]] · [[shimizu-2025-microglia-evolution]]
+- **[[Alzheimer's disease]]** — [[kosoy-2025-ad-microglia-landscape|Kosoy 2025]] · [[shimizu-2025-microglia-evolution|Shimizu 2025]]
+- **[[neurodegenerative disease]]** — [[chhatbar-2026-microglia-taxonomy|Chhatbar 2026]] · [[shimizu-2025-microglia-evolution|Shimizu 2025]]
 - **[[neurodevelopmental disease]]** — _none yet_
 - **[[neuropsychiatric disease]]** — _none yet_
