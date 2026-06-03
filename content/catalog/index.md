@@ -1,6 +1,6 @@
 ---
 title: Catalog
-aliases: [catalog, Catalog, paper catalog]
+aliases: [catalog, Catalog]
 tags: [meta, index]
 created: 2026-06-03
 updated: 2026-06-03

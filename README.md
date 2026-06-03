@@ -25,8 +25,8 @@ Core themes: [[microglia]] · [[neuroinflammation]] · [[disease-associated micr
 ```
 content/
 ├── index.md          # wiki home / entry point
-├── catalog.md        # master index of every paper summary
-├── log.md            # append-only changelog of wiki edits
+├── catalog/index.md        # master index of every paper summary
+├── log/index.md            # append-only changelog of wiki edits
 ├── 00-Sources/       # raw source metadata (DOIs, links, bibliographic stubs)
 ├── 10-Summaries/     # one structured summary per paper (15-section schema)
 ├── 20-Entities/      # concrete named things: genes, diseases, brain regions
@@ -56,7 +56,7 @@ Journal:
 Section:
 ```
 
-The agent will: search for and **verify** the paper, create a structured summary in `10-Summaries/`, and update `catalog.md`, `log.md`, related concept/topic pages, and cross-links to other papers.
+The agent will: search for and **verify** the paper, create a structured summary in `10-Summaries/`, and update `catalog/index.md`, `log/index.md`, related concept/topic pages, and cross-links to other papers.
 
 If the paper **cannot be confidently identified, it is not guessed** — it is recorded in [`content/50-Notes/unresolved-paper-requests.md`](content/50-Notes/unresolved-paper-requests.md) as *needs verification*.
 

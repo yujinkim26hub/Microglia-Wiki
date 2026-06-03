@@ -17,4 +17,4 @@ Bibliographic stubs — one per paper — holding DOI/PMID/link and the abstract
 - [[chhatbar-2026-source|Chhatbar 2026 — source]]
 - [[shimizu-2025-source|Shimizu 2025 — source]]
 
-**See also:** [[catalog|Catalog]] · [[log|Log]]
+**See also:** [[catalog/index|Catalog]] · [[log/index|Log]]

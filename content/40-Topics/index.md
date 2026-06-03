@@ -13,4 +13,4 @@ Methods and cross-cutting areas. Browse the folder in the sidebar, or jump to a 
 
 [[snRNA-seq scRNA-seq]] · [[spatial transcriptomics]] · [[multi-omics]] · [[brain single-cell atlas]] · [[transcriptomics in microglia]] · [[single-cell transcriptomics in neurological disease]]
 
-**See also:** [[catalog|Catalog]] · [[log|Log]]
+**See also:** [[catalog/index|Catalog]] · [[log/index|Log]]

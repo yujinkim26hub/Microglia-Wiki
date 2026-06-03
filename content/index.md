@@ -12,8 +12,8 @@ type: index
 A plain-Markdown, **LLM-maintained research wiki** on **microglia and neurological disease** — an [Obsidian](https://obsidian.md) vault published as a [Quartz](https://quartz.jzhao.xyz/) site, in the spirit of Karpathy's [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f#llm-wiki).
 
 > [!info] Start here
-> - **[[catalog|Catalog]]** — every paper summary, indexed.
-> - **[[log|Log]]** — changelog of what the wiki agent has done.
+> - **[[catalog/index|Catalog]]** — every paper summary, indexed.
+> - **[[log/index|Log]]** — changelog of what the wiki agent has done.
 > - Add a paper → see [[unresolved-paper-requests|how ingestion works]] and `AGENTS.md`.
 
 ## What lives here
@@ -54,4 +54,4 @@ Journal:
 Section:
 ```
 
-The agent verifies the paper, writes a 15-section summary, and wires it into the [[catalog|Catalog]], [[log|Log]], and related concept/topic/entity pages. Unverifiable requests go to [[unresolved-paper-requests]] — never guessed.
+The agent verifies the paper, writes a 15-section summary, and wires it into the [[catalog/index|Catalog]], [[log/index|Log]], and related concept/topic/entity pages. Unverifiable requests go to [[unresolved-paper-requests]] — never guessed.

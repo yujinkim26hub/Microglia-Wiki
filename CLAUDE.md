@@ -15,7 +15,7 @@ The **Microglia Wiki**: a plain-Markdown, Obsidian-compatible, LLM-maintained re
 - All wiki content lives under `content/`. Treat it as an Obsidian vault.
 - Use Obsidian `[[wikilinks]]` everywhere; keep pages interlinked.
 - One paper → one summary in `content/10-Summaries/` using the 15-section schema (template: `content/90-Meta/templates/paper-summary.md`).
-- Master index: `content/catalog.md`. Changelog (append-only): `content/log.md`.
+- Master index: `content/catalog/index.md`. Changelog (append-only): `content/log/index.md`.
 
 ## Paper ingestion (the main workflow)
 
@@ -32,7 +32,7 @@ Section:
 do the full ingestion workflow in **AGENTS.md §5**:
 
 1. Search for the paper and **verify** its identity against the supplied fields (need a real DOI/PMID and consistent author/title/year/journal).
-2. **If verified:** create the source stub + 15-section summary, then update `catalog.md`, `log.md`, and the related concept/topic/entity pages, and cross-link to other papers.
+2. **If verified:** create the source stub + 15-section summary, then update `catalog/index.md`, `log/index.md`, and the related concept/topic/entity pages, and cross-link to other papers.
 3. **If NOT confidently verified: do not guess.** Append it to `content/50-Notes/unresolved-paper-requests.md` as *needs verification* and tell the user.
 
 Always say which path you took and what files you changed.

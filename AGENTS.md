@@ -11,7 +11,7 @@ The wiki follows Karpathy's [LLM Wiki](https://gist.github.com/karpathy/442a6bf5
 1. **Plain Markdown only.** No databases, no generated binary artifacts in `content/`.
 2. **Never invent a citation, DOI, result, or figure.** If you cannot verify it, say so and quarantine it (§5).
 3. **Everything is linked.** Every page should connect outward via `[[wikilinks]]`. A page with no links is incomplete.
-4. **Append, don't rewrite history.** `log.md` is append-only. Edit pages freely, but record what you did.
+4. **Append, don't rewrite history.** `log/index.md` is append-only. Edit pages freely, but record what you did.
 5. **One paper = one summary file** in `10-Summaries/`, following the 15-section schema (§4) exactly.
 6. **Prefer existing pages.** Before creating a concept/entity/topic page, check whether one already exists (search the relevant folder). Reuse and link; don't duplicate.
 
@@ -84,8 +84,8 @@ Steps:
 3. **If identified:**
    a. Create `00-Sources/firstauthor-year-source.md` (bibliographic stub with DOI/PMID/link). **Keep stubs stub-only — never put the 15-section summary in `00-Sources/`.**
    b. Create `10-Summaries/firstauthor-year-shortslug.md` from the template — fill **all 15 sections** from the actual paper (abstract + available full text/figures). Never fabricate results; cite what you read. The summary's basename must differ from the source's (see §3) so `[[firstauthor-year-shortslug]]` uniquely points to the summary.
-   c. Update **`catalog.md`** — add a row (author, year, title, journal, summary link, tags).
-   d. Append to **`log.md`** — dated one-line entry of what was added/changed.
+   c. Update **`catalog/index.md`** — add a row (author, year, title, journal, summary link, tags).
+   d. Append to **`log/index.md`** — dated one-line entry of what was added/changed.
    e. Update related **concept** pages (`30-Concepts/`), **topic/Section** page (`40-Topics/`), and **entity** pages (`20-Entities/`) — add the new summary under their "Papers" / "Related papers" list and create missing concept/entity/topic pages as needed (from templates, fully linked).
    f. **Connect to other papers** — in §12 of the new summary and reciprocally in related summaries, add `[[wikilinks]]` describing the relationship.
 4. **If NOT confidently identified:** do **not** create a summary and do **not** guess. Append an entry to **`content/50-Notes/unresolved-paper-requests.md`** under "Needs verification," recording all five supplied fields, what you searched, why it failed (ambiguous / no match / multiple candidates), and any candidate DOIs found. Tell the user it needs verification.
@@ -104,10 +104,10 @@ Reuse these before inventing new ones (add hyphens; lowercase):
 
 ## 7. Maintenance tasks (beyond ingestion)
 
-- **Catalog hygiene:** keep `catalog.md` sorted and every summary listed.
+- **Catalog hygiene:** keep `catalog/index.md` sorted and every summary listed.
 - **Link repair:** when renaming a page, update inbound `[[wikilinks]]` and `aliases`.
 - **Concept growth:** as summaries accumulate, enrich concept pages with synthesized cross-paper insight (always cited back to summaries).
-- **Log everything notable** in `log.md`.
+- **Log everything notable** in `log/index.md`.
 
 ---
 
