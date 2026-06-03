@@ -28,7 +28,9 @@ Disease often shifts the *distribution* of microglial states rather than creatin
 - Topics: [[snRNA-seq scRNA-seq]], [[spatial transcriptomics]], [[brain single-cell atlas]], [[multi-omics]]
 
 ## Papers
-- _none yet_
+- [[chhatbar-2026-microglia-taxonomy]] — hierarchical taxonomy of microglial states (27 superclusters / 192 clusters).
+- [[shimizu-2025-microglia-evolution]] — conserved vs. divergent states across species.
+- [[kosoy-2025-ad-microglia-landscape]] — bulk AD subtypes/states (resolvable to single-cell states).
 
 ## Open questions
 - How many distinct microglial states are robustly reproducible across studies?

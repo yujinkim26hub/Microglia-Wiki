@@ -29,7 +29,7 @@ This is the index page for brain regions. [[Microglia]] are regionally heterogen
 - Topics: [[spatial transcriptomics]], [[brain single-cell atlas]], [[snRNA-seq scRNA-seq]]
 
 ## Papers
-- _none yet_
+- [[kosoy-2025-ad-microglia-landscape]] — prefrontal cortex (Brodmann Area 10) microglia in AD.
 
 ## Open questions
 - Which regional microglial features drive selective vulnerability?

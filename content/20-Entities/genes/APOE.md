@@ -27,7 +27,7 @@ type: entity
 - Topics: [[snRNA-seq scRNA-seq]], [[multi-omics]]
 
 ## Papers
-- _none yet_
+- [[kosoy-2025-ad-microglia-landscape]] — APOE upregulated in AD; APOE-anchored lipid-metabolism module (M114).
 
 ## Open questions
 - How does microglial vs. astrocytic APOE differentially shape disease?

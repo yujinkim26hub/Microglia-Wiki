@@ -29,7 +29,7 @@ scRNA-seq profiles transcriptomes of dissociated single cells; snRNA-seq profile
 - Topics: [[spatial transcriptomics]], [[multi-omics]], [[brain single-cell atlas]]
 
 ## Papers
-- _none yet_
+- [[chhatbar-2026-microglia-taxonomy]] — scRNA-seq of >1M CNS cells across >30 conditions.
 
 ## Open questions
 - How to harmonize states across platforms and labs?

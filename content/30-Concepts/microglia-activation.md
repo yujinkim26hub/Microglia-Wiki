@@ -28,7 +28,8 @@ Activation underlies [[neuroinflammation]] and shapes outcomes across [[neurodeg
 - Topics: [[snRNA-seq scRNA-seq]], [[spatial transcriptomics]]
 
 ## Papers
-- _none yet_
+- [[chhatbar-2026-microglia-taxonomy]] — activation-associated states depend on interferon + [[CSF1R]].
+- [[shimizu-2025-microglia-evolution]] — species differences in activation magnitude/dynamics.
 
 ## Open questions
 - What is the minimal set of axes needed to describe microglial activation?

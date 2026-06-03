@@ -27,7 +27,8 @@ Alzheimer's disease (AD) is a progressive [[neurodegenerative disease]] characte
 - Topics: [[snRNA-seq scRNA-seq]], [[spatial transcriptomics]], [[brain single-cell atlas]], [[multi-omics]]
 
 ## Papers
-- _none yet_
+- [[kosoy-2025-ad-microglia-landscape]] — transcriptional landscape of human AD microglia (189 brains).
+- [[shimizu-2025-microglia-evolution]] — biphasic microglial role in AD (cross-species perspective).
 
 ## Open questions
 - Are microglial responses in AD net-protective, net-harmful, or stage-dependent?

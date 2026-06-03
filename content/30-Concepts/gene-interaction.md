@@ -28,7 +28,7 @@ Microglial [[cell state|states]] and [[microglia activation|activation]] program
 - Topics: [[multi-omics]], [[snRNA-seq scRNA-seq]]
 
 ## Papers
-- _none yet_
+- [[kosoy-2025-ad-microglia-landscape]] — AD-altered gene–gene coordination and co-expression networks (MEGENA).
 
 ## Open questions
 - Which regulators are master controllers of disease-associated microglial states?

@@ -30,7 +30,7 @@ Brain single-cell/nucleus atlases (e.g., human brain cell atlases, Allen Brain C
 - Topics: [[snRNA-seq scRNA-seq]], [[spatial transcriptomics]], [[multi-omics]]
 
 ## Papers
-- _none yet_
+- [[chhatbar-2026-microglia-taxonomy]] — pan-pathology myeloid/microglial state atlas (mouse + human).
 
 ## Open questions
 - How to maintain stable, versioned state nomenclature across atlases?

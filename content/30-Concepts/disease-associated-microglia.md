@@ -30,7 +30,9 @@ DAM are a central concept for [[Alzheimer's disease]] and broader [[neurodegener
 - Topics: [[snRNA-seq scRNA-seq]], [[spatial transcriptomics]], [[brain single-cell atlas]]
 
 ## Papers
-- _none yet_
+- [[chhatbar-2026-microglia-taxonomy]] — taxonomy placing DAM-type states across diseases/species.
+- [[kosoy-2025-ad-microglia-landscape]] — APOE-anchored modules in human AD microglia.
+- [[shimizu-2025-microglia-evolution]] — conserved vs. species-specific disease-associated programs.
 
 ## Open questions
 - Are DAM protective, harmful, or stage-dependent?

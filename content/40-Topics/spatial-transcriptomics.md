@@ -30,7 +30,7 @@ Spatial transcriptomics (e.g., Visium, MERFISH, Xenium, Slide-seq) maps transcri
 - Topics: [[snRNA-seq scRNA-seq]], [[multi-omics]], [[brain single-cell atlas]]
 
 ## Papers
-- _none yet_
+- [[chhatbar-2026-microglia-taxonomy]] — spatial mapping of immune-cell states and niche interactions.
 
 ## Open questions
 - How to integrate spatial and single-cell data robustly?

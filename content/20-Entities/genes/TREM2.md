@@ -27,7 +27,7 @@ type: entity
 - Topics: [[snRNA-seq scRNA-seq]]
 
 ## Papers
-- _none yet_
+- [[shimizu-2025-microglia-evolution]] — TREM2-mediated early neuroprotection in the biphasic AD microglial role.
 
 ## Open questions
 - How do TREM2 ligands and signaling thresholds determine protective vs. harmful states?
